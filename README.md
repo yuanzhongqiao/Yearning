@@ -1,62 +1,49 @@
-<div align="center">
-
-<h1 style="border-bottom: none">
-    <b><a href="https://next.yearning.io">Yearning</a></b><br />
-        Simple, Efficient and MYSQL-Like
-    <br>
-</h1>
-<p>
-Seamlessly integrates SQL detection and query auditing, tailored for the use of DBAs and developers. <br />
-A locally deployed, privacy-focused, simple and efficient for MYSQL audit platform.
-</p>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">
+    <b><a href="https://next.yearning.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向往</font></font></a></b><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+        简单、高效、类似MYSQL
+    </font></font><br>
+</h1><a id="user-content-----yearning--------simple-efficient-and-mysql-like----" class="anchor-element" aria-label="永久链接：向往简单、高效、类MYSQL
+    " href="#----yearning--------simple-efficient-and-mysql-like----"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+无缝集成 SQL 检测和查询审计，专为 DBA 和开发人员的使用而量身定制。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+一个本地部署、注重隐私、简单高效的MYSQL审计平台。
+</font></font></p>
 </div>
-<div align="center">
-
-![](https://img.shields.io/badge/-x86_x64%20ARM%20Supports%20%E2%86%92-rgb(84,56,255)?style=flat-square&logoColor=white&logo=linux)
-[![OSCS Status](https://www.oscs1024.com/platform/badge/cookieY/Yearning.svg?size=small)](https://www.murphysec.com/dr/nDuoncnUbuFMdrZsh7)
-
-![LICENSE](https://img.shields.io/badge/license-AGPL%20-blue.svg)
-![](https://img.shields.io/github/languages/top/cookieY/Yearning)
-![](https://img.shields.io/docker/image-size/yeelabs/yearning/latest?logo=docker)
-<img alt="Github Stars" src="https://img.shields.io/github/stars/cookieY/Yearning?logo=github">
-[![Releases](https://img.shields.io/github/downloads/cookieY/Yearning/total)](https://github.com/cookieY/Yearning/releases/latest)
+<div align="center" dir="auto">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7866ac5feddadf53fe9c7635abc5b59116bf89063124a1a94d6aa75c5ddb7dce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7838365f78363425323041524d253230537570706f7274732532302545322538362539322d7267622838342c35362c323535293f7374796c653d666c61742d737175617265266c6f676f436f6c6f723d7768697465266c6f676f3d6c696e7578"><img src="https://camo.githubusercontent.com/7866ac5feddadf53fe9c7635abc5b59116bf89063124a1a94d6aa75c5ddb7dce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7838365f78363425323041524d253230537570706f7274732532302545322538362539322d7267622838342c35362c323535293f7374796c653d666c61742d737175617265266c6f676f436f6c6f723d7768697465266c6f676f3d6c696e7578" alt="" data-canonical-src="https://img.shields.io/badge/-x86_x64%20ARM%20Supports%20%E2%86%92-rgb(84,56,255)?style=flat-square&amp;logoColor=white&amp;logo=linux" style="max-width: 100%;"></a>
+<a href="https://www.murphysec.com/dr/nDuoncnUbuFMdrZsh7" rel="nofollow"><img src="https://camo.githubusercontent.com/dde0c75ebc3bdd50f055dc5054673a6c25feebf9f68ec80694432bcb5efc06b8/68747470733a2f2f7777772e6f736373313032342e636f6d2f706c6174666f726d2f62616467652f636f6f6b6965592f596561726e696e672e7376673f73697a653d736d616c6c" alt="操作系统状态" data-canonical-src="https://www.oscs1024.com/platform/badge/cookieY/Yearning.svg?size=small" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7cb298ff584303ca17e9de884c212b4aaadc40dd046006c29f784a8788837118/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4147504c2532302d626c75652e737667"><img src="https://camo.githubusercontent.com/7cb298ff584303ca17e9de884c212b4aaadc40dd046006c29f784a8788837118/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4147504c2532302d626c75652e737667" alt="执照" data-canonical-src="https://img.shields.io/badge/license-AGPL%20-blue.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28ec571d4ce799a52f8ea300a2f8de306667a54a5ab0730028be7571d5f45b2e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f636f6f6b6965592f596561726e696e67"><img src="https://camo.githubusercontent.com/28ec571d4ce799a52f8ea300a2f8de306667a54a5ab0730028be7571d5f45b2e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f636f6f6b6965592f596561726e696e67" alt="" data-canonical-src="https://img.shields.io/github/languages/top/cookieY/Yearning" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f65c21369cbb156f6df890d6ebd3d716b7278be9eb6b36684fde1ff142e5f453/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f696d6167652d73697a652f7965656c6162732f796561726e696e672f6c61746573743f6c6f676f3d646f636b6572"><img src="https://camo.githubusercontent.com/f65c21369cbb156f6df890d6ebd3d716b7278be9eb6b36684fde1ff142e5f453/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f696d6167652d73697a652f7965656c6162732f796561726e696e672f6c61746573743f6c6f676f3d646f636b6572" alt="" data-canonical-src="https://img.shields.io/docker/image-size/yeelabs/yearning/latest?logo=docker" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/376bcbb81c3ce8c36f4785276895b528429f7fdf218fa8764e52993cfa8a91e7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f636f6f6b6965592f596561726e696e673f6c6f676f3d676974687562"><img alt="Github 星星" src="https://camo.githubusercontent.com/376bcbb81c3ce8c36f4785276895b528429f7fdf218fa8764e52993cfa8a91e7/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f636f6f6b6965592f596561726e696e673f6c6f676f3d676974687562" data-canonical-src="https://img.shields.io/github/stars/cookieY/Yearning?logo=github" style="max-width: 100%;"></a>
+<a href="https://github.com/cookieY/Yearning/releases/latest"><img src="https://camo.githubusercontent.com/d404052a98b149e0bf9858263a96066a3eb80ca12c36919eb31b13e1200fb83e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f636f6f6b6965592f596561726e696e672f746f74616c" alt="发布" data-canonical-src="https://img.shields.io/github/downloads/cookieY/Yearning/total" style="max-width: 100%;"></a></p>
 </div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">英语 |</font></font><a href="/cookieY/Yearning/blob/next/README.zh-CN.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简体中文</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-feature" class="anchor-element" aria-label="永久链接：功能" href="#feature"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 审计</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">— 支持通过批准工作流程和自动语法检查器创建 SQL 审计票证，以验证提交的 SQL 语句的正确性、安全性和合规性。</font><font style="vertical-align: inherit;">自动生成与提交的DDL/DML操作对应的回滚语句，以便在需要时轻松恢复。</font><font style="vertical-align: inherit;">维护所有 SQL 审核操作的全面历史记录，以实现可追溯性和审核目的。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查询审计</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——我们的解决方案支持对用户查询语句的审计，包括对数据源和数据库的限制，以及敏感字段的匿名化。</font><font style="vertical-align: inherit;">查询记录也被保存以供将来参考。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">检查规则</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——自动语法检查器支持数十种检查规则，满足大部分自动检查场景。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注重隐私</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 可本地部署的开源解决方案可确保数据库和 SQL 语句的安全。</font><font style="vertical-align: inherit;">除了提供对基础设施的控制之外，该解决方案还包括加密机制，用于在将敏感数据存储到数据库之前对其进行保护。</font><font style="vertical-align: inherit;">这确保即使存在未经授权的数据库访问，加密数据仍然安全且不可读。</font><font style="vertical-align: inherit;">通过结合本地部署、开源透明度和数据加密，我们优先考虑数据库和 SQL 语句的隐私和安全。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RBAC</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在我们的平台中，您可以创建和管理不同的角色，并为每个角色分配特定的权限。</font><font style="vertical-align: inherit;">这允许您根据分配的角色限制用户对查询工作订单、审核功能和其他敏感操作的访问权限。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-docs" class="anchor-element" aria-label="永久链接：文档" href="#docs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://next.yearning.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向往文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只有中文</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-install" class="anchor-element" aria-label="永久链接：安装" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/cookieY/Yearning/releases/latest"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新版本并解压。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先确保你已经配置了./config.toml</font></font></strong></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">手动的</font></font></h4><a id="user-content-manual" class="anchor-element" aria-label="永久链接：手册" href="#manual"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span># init database</span>
+./Yearning install
 
-English | [简体中文](README.zh-CN.md)
+<span class="pl-c"><span class="pl-c">#</span># start</span>
+./Yearning run
 
-## Feature
-
-- **SQL Audit** — Support the creation of SQL audit tickets with approval workflows and automated syntax checkers to
-  validate submitted SQL statements for correctness, security, and compliance. Automatically generate rollback
-  statements corresponding to the submitted DDL/DML operations for easy recovery when needed. Maintain a comprehensive
-  history log of all SQL audit operations for traceability and auditing purposes.
-- **Query Audit** — Our solution supports auditing of user query statements, including restrictions on data sources and
-  databases, as well as anonymization of sensitive fields. Query records are also saved for future reference.
-- **Check Rules** — The automated syntax checker supports dozens of check rules, catering to most of the automatic
-  checking scenarios.
-- **Privacy focussed** - Locally deployable and open-source solution ensures the security of your database and SQL
-  statements. In addition to providing control over the infrastructure, the solution also includes encryption mechanisms
-  to protect sensitive data before storing it in your database. This ensures that even if there is unauthorized access
-  to the database, the encrypted data remains secure and unreadable. By combining local deployment, open-source
-  transparency, and data encryption, we prioritize the privacy and security of your database and SQL statements.
-- **RBAC** - In our platform, you can create and manage different roles and assign specific permissions to each role.
-  This allows you to restrict users' access to query work orders, auditing functions, and other sensitive operations
-  based on their assigned roles.
-
-## Docs
-
-[Yearning Docs](https://next.yearning.io) only Chinese
-
-## Install
-
-[Download](https://github.com/cookieY/Yearning/releases/latest) the latest release and extract it.
-
-**First make sure you have configured ./config.toml**
-
-#### Manual
-
-```bash
-## init database
+<span class="pl-c"><span class="pl-c">#</span># help</span>
+./Yearning --help
+</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="## init database
 ./Yearning install
 
 ## start
@@ -64,61 +51,60 @@ English | [简体中文](README.zh-CN.md)
 
 ## help
 ./Yearning --help
-
-```
-
-**Yes, it's that simple**
-
-#### Docker
-
-```bash
-## init database
-docker run --rm -it -p8000:8000 -e SECRET_KEY=$SECRET_KEY -e MYSQL_USER=$MYSQL_USER -e MYSQL_ADDR=$MYSQL_ADDR -e MYSQL_PASSWORD=$MYSQL_PASSWORD -e MYSQL_DB=$Yearning_DB yeelabs/yearning "/opt/Yearning install"
+" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是的，就是这么简单</font></font></strong></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></h4><a id="user-content-docker" class="anchor-element" aria-label="永久链接：Docker" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span># init database</span>
+docker run --rm -it -p8000:8000 -e SECRET_KEY=<span class="pl-smi">$SECRET_KEY</span> -e MYSQL_USER=<span class="pl-smi">$MYSQL_USER</span> -e MYSQL_ADDR=<span class="pl-smi">$MYSQL_ADDR</span> -e MYSQL_PASSWORD=<span class="pl-smi">$MYSQL_PASSWORD</span> -e MYSQL_DB=<span class="pl-smi">$Yearning_DB</span> yeelabs/yearning <span class="pl-s"><span class="pl-pds">"</span>/opt/Yearning install<span class="pl-pds">"</span></span>
+<span class="pl-c"><span class="pl-c">#</span># You must initialize your database in the startup container</span>
+docker run -d -it -p8000:8000 -e SECRET_KEY=<span class="pl-smi">$SECRET_KEY</span> -e MYSQL_USER=<span class="pl-smi">$MYSQL_USER</span> -e MYSQL_ADDR=<span class="pl-smi">$MYSQL_ADDR</span> -e MYSQL_PASSWORD=<span class="pl-smi">$MYSQL_PASSWORD</span> -e MYSQL_DB=<span class="pl-smi">$Yearning_DB</span> yeelabs/yearning</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="## init database
+docker run --rm -it -p8000:8000 -e SECRET_KEY=$SECRET_KEY -e MYSQL_USER=$MYSQL_USER -e MYSQL_ADDR=$MYSQL_ADDR -e MYSQL_PASSWORD=$MYSQL_PASSWORD -e MYSQL_DB=$Yearning_DB yeelabs/yearning &quot;/opt/Yearning install&quot;
 ## You must initialize your database in the startup container
-docker run -d -it -p8000:8000 -e SECRET_KEY=$SECRET_KEY -e MYSQL_USER=$MYSQL_USER -e MYSQL_ADDR=$MYSQL_ADDR -e MYSQL_PASSWORD=$MYSQL_PASSWORD -e MYSQL_DB=$Yearning_DB yeelabs/yearning
-```
-
-## Recommend
-
-[Spug - 开源轻量自动化运维平台](https://github.com/openspug/spug)
-
-<h1 align="center">Automatic SQL Checker</h1>
-<p align="center">
-The SQL statement detection function tests against predefined rules and syntax <br /> we can set predefined rules to check whether the SQL statement conforms to specific coding standards, best practices or security requirements.
-</p>
-
-<img src="img/audit.png" style="width: 1000px" /> 
-
-<br />
-<h2 align="center">SQL syntax highlighting and Auto-completion</h2>
-<p align="center">
-SQL syntax highlighting and auto-completion features to enhance the user experience and improve query writing efficiency.<br />SQL syntax highlighting helps users visually distinguish different parts of the SQL query, such as keywords, table names, column names, and operators.  This makes it easier to read and understand the query structure.
-</p>
-<img src="img/query.png" style="width: 1000px" />
-<br />
-<br />
-<h2 align="center">Order/Query record</h2>
-<p align="center">
-  Supports auditing of user order/query statements <br /> Through the auditing feature, you can track and record all query operations, including the data source, database, and handling of sensitive fields. This ensures that query operations comply with regulations and allows for tracing query history.
-
-
-</p>
-<img src="img/record.png" style="width: 1000px" />
-
-<br />
-
-## Ecosystem
-
-[Gemini](https://github.com/cookieY/gemini-next) Yearning front-end Project
-
-[Yee](https://github.com/cookieY/yee) Yearning web framework
-
-## Contact Us
-
-E-mail: henry@yearning.io
-
-## License
-
-See [LICENSE](LICENSE) for details.
-
-2023 © Henry Yee
+docker run -d -it -p8000:8000 -e SECRET_KEY=$SECRET_KEY -e MYSQL_USER=$MYSQL_USER -e MYSQL_ADDR=$MYSQL_ADDR -e MYSQL_PASSWORD=$MYSQL_PASSWORD -e MYSQL_DB=$Yearning_DB yeelabs/yearning" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推荐</font></font></h2><a id="user-content-recommend" class="anchor-element" aria-label="永久链接：推荐" href="#recommend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/openspug/spug"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Spug - 开源轻量自动化运维平台</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动 SQL 检查器</font></font></h1><a id="user-content-automatic-sql-checker" class="anchor-element" aria-label="永久链接：自动 SQL 检查器" href="#automatic-sql-checker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+SQL语句检测功能根据预定义的规则和语法进行测试，</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们可以设置预定义的规则来检查SQL语句是否符合特定的编码标准、最佳实践或安全要求。
+</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/cookieY/Yearning/blob/next/img/audit.png"><img src="/cookieY/Yearning/raw/next/img/audit.png" style="width: 1000px; max-width: 100%;"></a></p> 
+<br>
+<div class="markdown-heading" dir="auto"><h2 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 语法高亮和自动完成</font></font></h2><a id="user-content-sql-syntax-highlighting-and-auto-completion" class="anchor-element" aria-label="永久链接：SQL 语法突出显示和自动完成" href="#sql-syntax-highlighting-and-auto-completion"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+SQL语法高亮和自动完成功能增强用户体验并提高查询编写效率。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 语法突出显示可以帮助用户直观地区分 SQL 查询的不同部分，例如关键字、表名、列名和运算符。</font><font style="vertical-align: inherit;">这使得更容易阅读和理解查询结构。
+</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/cookieY/Yearning/blob/next/img/query.png"><img src="/cookieY/Yearning/raw/next/img/query.png" style="width: 1000px; max-width: 100%;"></a></p>
+<br>
+<br>
+<div class="markdown-heading" dir="auto"><h2 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订单/查询记录</font></font></h2><a id="user-content-orderquery-record" class="anchor-element" aria-label="固定链接：订单/查询记录" href="#orderquery-record"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  支持对用户订单/查询语句的审计</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过审计功能，您可以跟踪记录所有查询操作，包括数据源、数据库、敏感字段的处理等。</font><font style="vertical-align: inherit;">这可确保查询操作符合法规并允许跟踪查询历史记录。
+</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/cookieY/Yearning/blob/next/img/record.png"><img src="/cookieY/Yearning/raw/next/img/record.png" style="width: 1000px; max-width: 100%;"></a></p>
+<br>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生态系统</font></font></h2><a id="user-content-ecosystem" class="anchor-element" aria-label="永久链接：生态系统" href="#ecosystem"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/cookieY/gemini-next"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">双子座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向往前端项目</font></font></p>
+<p dir="auto"><a href="https://github.com/cookieY/yee"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Yee</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向往 Web 框架</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font></font></h2><a id="user-content-contact-us" class="anchor-element" aria-label="永久链接：联系我们" href="#contact-us"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件：</font></font><a href="mailto:henry@yearning.io"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">henry@yearning.io</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor-element" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关详细信息，</font><font style="vertical-align: inherit;">请参阅</font></font><a href="/cookieY/Yearning/blob/next/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2023 © 叶亨利</font></font></p>
+</article></div>
